@@ -10,8 +10,16 @@
 
 .lifestyle-sec .pri-heading {
   font-size: 16px;
-  color: #626262;
+  color: #b4ad9e;
 }
 .lifestyle-sec .para {
+  font-size: 14px;
+}
+
+.photo-sec .pri-heading {
+  font-size: 16px;
+  color: #b4ad9e;
+}
+.photo-sec .para {
   font-size: 14px;
 }
